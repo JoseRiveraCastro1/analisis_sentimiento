@@ -3,8 +3,8 @@ from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
 
 # Configuración de Azure
-AZURE_KEY = "TU_CLAVE_DE_AZURE"
-AZURE_ENDPOINT = "TU_ENDPOINT"
+AZURE_KEY = "4RMlU5dWZczbAMFT8C8NGIx2cLAcLdi9wqPezoodImoL61vGhOIUJQQJ99BCACYeBjFXJ3w3AAAaACOGBT9c"
+AZURE_ENDPOINT = "https://testpty.cognitiveservices.azure.com/"
 
 # Inicializar Flask
 app = Flask(__name__)
